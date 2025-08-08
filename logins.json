@@ -1,0 +1,19 @@
+[
+  {
+    "name" : "John",
+    "password" : "MonkeyDeLufi",
+    "Special Q" : "ahh"
+  }
+  ,
+  {
+    "name" : "Bob",
+    "password" : "meh",
+    "Special Q" : "ahh"
+  }
+  ,
+  {
+    "name": "Bobby",
+    "password": "mehkay",
+    "Special Q" : "ahh"
+  }
+]

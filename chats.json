@@ -1,0 +1,12 @@
+[
+    {
+        "from": "John",
+        "to": "Bob",
+        "message": "John: Hiiiiiiiiiii\nHow are u?"
+    },
+    {
+        "from": "Bob",
+        "to": "Bobby",
+        "message": "Bob: Was guuud gang, we have the same name!"
+    }
+]
