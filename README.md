@@ -24,7 +24,7 @@ YapYap is a lightweight, privacy-focused Python-based chatting app. Designed wit
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/AbhyudayJhaTrue/ChattingApp_YapYap.git
-   cd yapyap
+   cd ChattingApp_YapYap
    ```
 
 2. **Install dependencies:**
